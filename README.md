@@ -3,7 +3,7 @@ Following these tutorials: https://github.com/magomimmo/modern-cljs
 
 ## Prerequisites
 * Java 1.8
-* (Boot)[http://boot-clj.com/]
+* [Boot](http://boot-clj.com/)
 
 ## How to get started
 1. In shell, run `boot dev`
